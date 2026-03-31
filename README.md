@@ -9,19 +9,7 @@ A CLI-based personal finance tool that automatically categorizes your expenses u
 
 ---
 
-## 📁 Project Structure
 
-```
-expense_categorizer/
-├── main.py            # CLI entry point — interactive menu
-├── prolog_rules.py    # Pure-Python Prolog rules engine (knowledge base + inference)
-├── ml_categorizer.py  # K-Means + TF-IDF ML categorization
-├── charts.py          # Matplotlib chart generators
-├── sample_data.py     # Synthetic Mumbai expense data generator
-├── data/
-│   └── expenses.csv   # Your transaction data (auto-created)
-├── charts/            # Generated chart images (auto-created)
-└── README.md
 ```
 
 ---
