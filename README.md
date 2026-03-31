@@ -145,7 +145,6 @@ Four chart types are generated and saved as PNG files:
 ---
 
 ## 👤 Author
-- ATHAVRV SOORAJ
+- ATHARV SOORAJ
 - 25BMR10005
-Submitted as BYOP Project — *Fundamentals of AI and ML*  
-VIT — 2025–26
+
